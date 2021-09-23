@@ -5804,11 +5804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\azooz\\source\\repos\\LastProjSDA3\\LastProjSDA3\\LastProjSDA3.csproj",
+      "projectUniqueName": "C:\\Users\\azooz\\LastProjSDA3\\LastProjSDA3\\LastProjSDA3.csproj",
       "projectName": "LastProjSDA3",
-      "projectPath": "C:\\Users\\azooz\\source\\repos\\LastProjSDA3\\LastProjSDA3\\LastProjSDA3.csproj",
+      "projectPath": "C:\\Users\\azooz\\LastProjSDA3\\LastProjSDA3\\LastProjSDA3.csproj",
       "packagesPath": "C:\\Users\\azooz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\azooz\\source\\repos\\LastProjSDA3\\LastProjSDA3\\obj\\",
+      "outputPath": "C:\\Users\\azooz\\LastProjSDA3\\LastProjSDA3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\azooz\\AppData\\Roaming\\NuGet\\NuGet.Config",

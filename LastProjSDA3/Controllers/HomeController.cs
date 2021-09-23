@@ -1,6 +1,6 @@
 ﻿using Core.Entities;
 using eTickets.Interface;
-using eTickets.ViewModel;
+using ViewModel;
 using Microsoft.AspNetCore.Mvc;
 using System.Linq;
 
@@ -8,14 +8,19 @@ namespace eTickets.Controllers
 {
     public class HomeController : Controller
     {
+        
         private readonly IUnitOfWork<Owner> _owner;
         private readonly IUnitOfWork<PortfolioItem> _portfolioItem;
+        
+
         public HomeController(
             IUnitOfWork<Owner> owner,
-            IUnitOfWork<PortfolioItem> portfolioItem)
+            IUnitOfWork<PortfolioItem> portfolioItem
+            )
         {
             _owner = owner;
             _portfolioItem = portfolioItem;
+           
         }
         public IActionResult Index()
         {
@@ -26,6 +31,13 @@ namespace eTickets.Controllers
             };
             return View(homeViewModel);
         }
-    
+
+        public IActionResult login()
+        {
+           
+            return View();
+        }
     }
+
+    
 }

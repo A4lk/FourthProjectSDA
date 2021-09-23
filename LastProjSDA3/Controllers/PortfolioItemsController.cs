@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Core.Entities;
-using Web.ViewModels;
+using ViewModel;
 using System.IO;
 using Microsoft.AspNetCore.Hosting;
 using eTickets.Interface;

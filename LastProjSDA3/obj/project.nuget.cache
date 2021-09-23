@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FN4MbMruearD1gwHnP6dakMHTxs9aXQk3A6wW0yM2u35JXvBqdgKhjx3/x5aWDv8wHgCs8/2NnPy716Ml9mUGg==",
+  "dgSpecHash": "qXNBaZOu6iCyWIyLTF/lRDqNEvDJRa09rTXxqGjvj2OsaCzSfOjdnzX8Sho1ui2QVEx1+iPzot8RimKACN5Abw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\azooz\\source\\repos\\LastProjSDA3\\LastProjSDA3\\LastProjSDA3.csproj",
+  "projectFilePath": "C:\\Users\\azooz\\LastProjSDA3\\LastProjSDA3\\LastProjSDA3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\azooz\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\azooz\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
